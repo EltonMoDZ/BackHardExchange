@@ -50,7 +50,7 @@ Contribuições para o Conversor de Moedas BackHardExchange são bem-vindas. Por
 - Elton A. Costa
 
 ## Agradecimentos
-- Obrigado a [nome do provedor da API] por fornecer dados de câmbio em tempo real
+- Obrigado a EXCHANGESRATE por fornecer dados de câmbio em tempo real
 - Biblioteca Gson da Google para análise de JSON
 
 ## Requisitos do Sistema
